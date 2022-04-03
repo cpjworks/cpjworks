@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cpjworks
+- 👋 Hi, I’m Chris.
 - 👀 I’m interested in building a social media website / app, a home, and a person.
 - 🌱 I’m currently learning Python, GitHub, math, and piano.
 - 💞️ I’m looking to collaborate on meaningful, future-looking projects.
