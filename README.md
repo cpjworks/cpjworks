@@ -8,7 +8,7 @@
 
 Feel free to say **"Hello"** :)
 
-[^1]: That's not actually me in my profile picture -_- but if you know where they are from, we can definitely be friends.
+[^1]: That's not actually me in my picture -_- but if you know who they are, we can definitely be friends.
 
 <!---
 cpjworks/cpjworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
