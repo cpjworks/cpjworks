@@ -6,15 +6,16 @@
 
 Feel free to say **"Hello"** :)
 
-More specific current areas of interest (talk to me about these, please! 📗):
-Pair programming (Python, C++, anything else)
-iOS app development (Swift)
-Contributing to open source projects
-Art fundamentals / 3D + 2D digital art (Blender, Procreate, Photoshop)
-Video game development tools (Unreal, Unity, Godot etc)
-Meteorology / extreme weather events
-Science fiction storytelling
-Architecture
+More specific current areas of interest (talk to me about these, please! 📗 🐛):<br>
+- Pair programming (Python, C++, anything else)<br>
+- iOS app development (Swift)<br>
+- Contributing to open source projects<br>
+- Art fundamentals / 3D + 2D digital art (Blender, Procreate, Photoshop)<br>
+- Video game development tools (Unreal, Unity, Godot etc)<br>
+- Meteorology / extreme weather events<br>
+- Science fiction storytelling<br>
+- Architecture<br>
+- Meeting people in-person and making new friends 🐌 🥡🧃 🐢
 
 [^1]: That's not actually me in my picture -_-, but if you know who they are, we can definitely be friends.
 
