@@ -13,7 +13,7 @@ Specific current areas of interest (talk to me about these, please! 📗 🐛):<
 - Video game development tools (Unreal, Unity, Godot etc).<br>
 - Art fundamentals / 3D + 2D digital art (Blender, Procreate, Photoshop).<br>
 - Meteorology / extreme weather events.<br>
-- Science fiction storytelling.<br>
+- Speculative fiction.<br>
 - Architecture.<br>
 - Stepping out into the "desert of the real" to make new friends in-person 🐌 🥡🧃 🐢
 
