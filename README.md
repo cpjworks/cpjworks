@@ -15,7 +15,7 @@ Specific current areas of interest (talk to me about these, please! 📗 🐛):<
 - Meteorology / extreme weather events.<br>
 - Speculative / science fiction.<br>
 - Architecture.<br>
-- Stepping out into the "desert of the real" to make new friends in-person 🐌 🥡🧃 🐢
+- Stepping out to make new friends in-person 🐌 🥡🧃 🐢
 
 
 [^1]: That's not actually me in my picture -_-, but if you know who they are, we can definitely be friends.
