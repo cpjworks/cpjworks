@@ -10,6 +10,7 @@ Specific current areas of interest (talk to me about these, please! 📗 🐛):<
 - Pair programming (Python, C++, Swift, anything else).<br>
 - iOS app development - Let's build things together!<br>
 - Contributing to open source projects - I am always happy to assist and learn.<br>
+- Raspberry Pi and Linux
 - Video game development tools (Unreal, Unity, Godot etc).<br>
 - Art fundamentals / 3D + 2D digital art (Blender, Procreate, Photoshop).<br>
 - Meteorology / extreme weather events.<br>
