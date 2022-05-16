@@ -6,8 +6,8 @@
 
 Feel free to say **"Hello"** :)
 
-Specific current areas of interest (talk to me about these, please! 📗 🐛):
-- Pair programming (Python, C++, Swift, anything else).
+Current specific areas of interest (talk to me about these, please! 📗 🐛):
+- Pair programming (Python, C++, Swift, Flutter, anything else).
 - iOS app development - Let's build things together!
 - Raspberry Pi and Linux.
 - Contributing to open source projects - I am always happy to assist and learn.
