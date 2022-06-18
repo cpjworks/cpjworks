@@ -12,7 +12,7 @@ Current specific areas of interest - talk to me about these, please! 📗 🐛:
 - Raspberry Pi, Linux
 - Contributing to open source projects - I am always happy to assist and learn
 - Video game development tools (Unreal, Unity, Godot etc)
-- Art fundamentals / 3D + 2D digital art (Blender, Procreate, Photoshop)
+- 3D + 2D digital art (Blender, Procreate, Photoshop)
 - Meteorology / extreme weather events; Speculative / science fiction; Architecture
 - Stepping out to make new friends in-person 🐌 🥡🧃 🐢
 
