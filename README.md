@@ -7,12 +7,12 @@
 Feel free to say **"Hello"** :)
 
 Current specific areas of interest - talk to me about these, please! 📗 🐛:
-- Pair programming (Python, C++, Swift, anything else)
+- Pair programming - Python, C++, Swift, anything else
 - iOS app development - Let's build things together!
 - Raspberry Pi, Linux
 - Contributing to open source projects - I am always happy to assist and learn
-- Video game development tools (Unreal, Unity, Godot etc)
-- 3D + 2D digital art (Blender, Procreate, Photoshop)
+- Unreal Engine, Quixel Megascans and Mixer
+- 3D + 2D digital art - Blender, Houdini, Procreate, Nomad Sculpt, Photoshop
 - Meteorology / extreme weather events; Speculative / science fiction; Architecture
 - Stepping out to make new friends in-person 🐌 🥡🧃 🐢
 
