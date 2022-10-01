@@ -11,8 +11,7 @@ Current specific areas of interest - talk to me about these, please! 📗 🐛:
 - iOS app development - Let's build things together!
 - Raspberry Pi, Linux
 - Contributing to open source projects - I am always happy to assist and learn
-- Unreal Engine, Quixel Megascans and Mixer
-- 3D + 2D digital art - Blender, Houdini, Procreate, Nomad Sculpt
+- 3D + 2D digital art - Blender, Unreal, Houdini, Procreate, Nomad Sculpt
 - Meteorology / extreme weather events; Speculative / science fiction; Architecture
 - Stepping out to make new friends in-person 🐌 🥡🧃 🐢
 
