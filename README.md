@@ -12,7 +12,7 @@ Current specific areas of interest - Talk to me about these, please! 📗 🐛:
 - Raspberry Pi, Linux
 - Contributing to open source projects - I am always happy to assist and learn
 - 3D + 2D digital art - Blender, Unreal, Houdini, Procreate, Nomad Sculpt
-- Meteorology / extreme weather events; Speculative / science fiction; Architecture
+- Meteorology / extreme weather events; speculative / science fiction; architecture
 - Stepping out to make new friends in-person 🐌 🥡🧃 🐢
 
 
