@@ -6,7 +6,7 @@
 
 Feel free to say **"Hello"** :)
 
-Current areas of interest - Talk to me about these, please! 📗 🐛:
+Current specific areas of interest - Talk to me about these, please! 📗 🐛:
 - Pair programming - Python, C++, Swift, anything else
 - iOS app development - Let's build things together!
 - Linux, Raspberry Pi
