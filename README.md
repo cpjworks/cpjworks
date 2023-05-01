@@ -14,7 +14,7 @@ Current specific areas of interest - Talk to me about these, please! 📗 🐛:
 - 3D + 2D digital art - Blender, Unreal, Houdini, Procreate, Nomad Sculpt
 - Meteorology / extreme weather events; speculative / science fiction; architecture
 - Stepping out to make new friends in-person 🐌 🥡🧃 🐢
-- Living / working in-person or remotely from Taiwan, Japan, South Korea, Sweden, Scotland
+- Living / working in-person or remotely from Taiwan, Japan, South Korea, Sweden, Scotland 🗺️
 
 
 [^1]: That's not actually me in my picture -_-, but if you know who they are, we can definitely be friends.
