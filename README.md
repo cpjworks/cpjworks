@@ -7,10 +7,10 @@
 Feel free to say **"Hello"** :)
 
 Current specific areas of interest - Talk to me about these, please! 📗 🐛:
+- Contributing to open source projects - I am always happy to assist and learn
 - Pair programming - Python, C++, Rust, Swift, anything else
 - iOS app development - Let's build things together!
-- Linux, Raspberry Pi
-- Contributing to open source projects - I am always happy to assist and learn
+- Learning about Linux, and Raspberry Pi
 - 3D + 2D digital art - Blender, Unreal, Houdini; Procreate, Nomad Sculpt
 - Meteorology / extreme weather events, speculative / science fiction, architecture
 - Stepping out to make new friends in-person 🐌 🥡🧃 🐢
