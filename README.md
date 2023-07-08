@@ -2,7 +2,7 @@
 - [x] 🎨 I’m interested in building a social media website / app, a home, and a person.
 - [x] 🎒 I’m currently learning Python, math, 3D, and piano.
 - [x] 🏔 I’m looking to collaborate on meaningful, future-looking projects.
-- [x] 🚠 You can contact / follow me [@cpjworks](https://linktr.ee/cpjworks) on GitHub, Twitter, Instagram, and ArtStation.<br>
+- [x] 🚠 You can contact / follow me [@cpjworks](https://linktr.ee/cpjworks) on GitHub, Twitter, Instagram, Threads, and ArtStation.<br>
 
 Feel free to say **"Hello"** :)
 
