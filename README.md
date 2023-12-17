@@ -1,6 +1,6 @@
 ## 🐻‍❄️ Hi, I’m **Chris**.[^1]
 - [x] 🎨 I’m interested in building a social media website / app, a home, and a person.
-- [x] 🎒 I’m currently learning Python, math, 3D, and piano.
+- [x] 🎒 I’m currently learning Python, math, and piano.
 - [x] 🏔 I’m looking to collaborate on meaningful, future-looking projects.
 - [x] 🚠 You can contact / follow me [@cpjworks](https://linktr.ee/cpjworks) on GitHub, Twitter / X, Instagram, and ArtStation.<br>
 
