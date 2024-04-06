@@ -15,7 +15,7 @@ Current specific areas of interest - Talk to me about these, please! 📗 🐛
 - Meteorology / extreme weather events, speculative / science fiction, architecture
 - Stepping out to make new friends in-person 🐌 🥡🧃 🐢
 - Living in / working remotely from Taiwan, Japan, South Korea, Sweden, Scotland 🗺️
-- Lyon women's football (soccer) team - Selma Bacha is my favourite player ⚽✨
+- Lyon women's football (soccer) team, and all of the other teams, too ⚽✨
 
 
 [^1]: That's not actually me in my picture -_-, but if you know who they are, we can definitely be friends.
